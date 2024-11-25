@@ -110,5 +110,5 @@ p_value
 
 Ta có p_value = 0.894 > 0.05 kết quả cho thấy Giả thuyết H0 là không thể bị bác bỏ. 
 Do đó, việc thời tỷ lệ giao dịch thành công của new_page thấp hơn old_page là không có ý nghĩa thống kê, hay chỉ là kết quả của sự ngẫu nhiên.
-Điều này có nghĩa là trang web mới không có hiệu quả nhiều so với page cũ. 
+Điều này có nghĩa là trang web mới không có hiệu quả nhiều so với page cũ là không thể khẳng định được. 
 
